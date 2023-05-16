@@ -2,6 +2,15 @@
 
 Unofficial Python module for interacting with the HYPE card API.
 
+![GitHub contributors](https://img.shields.io/github/contributors/MatteoFasulo/HypeBankAPI-dashboard)
+[![GitHub issues](https://img.shields.io/github/issues/MatteoFasulo/HypeBankAPI-dashboard)](https://github.com/MatteoFasulo/HypeBankAPI-dashboard/issues)
+[![GitHub stars](https://img.shields.io/github/stars/MatteoFasulo/HypeBankAPI-dashboard)](https://github.com/MatteoFasulo/HypeBankAPI-dashboard/stargazers)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/MatteoFasulo/HypeBankAPI-dashboard)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/MatteoFasulo/HypeBankAPI-dashboard)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/MatteoFasulo/HypeBankAPI-dashboard)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MatteoFasulo/HypeBankAPI-dashboard)
+[![GitHub license](https://img.shields.io/github/license/MatteoFasulo/HypeBankAPI-dashboard)](https://github.com/MatteoFasulo/HypeBankAPI-dashboard)
+
 ## 📝 Notes
 - HYPE only allows the use of one device at a time. Logging in with this module will disconnect you from the application and vice versa.
 
@@ -42,6 +51,8 @@ streamlit run Home.py --server.port=8501 --server.address=127.0.0.1
 ### 💳 Card
 ![image](https://github.com/MatteoFasulo/HypeAPI/assets/74818541/50b6a0f6-d386-4f3b-88b9-1972ac30a194)
 
+<hr>
+
 ## ⚠️ Disclaimer
 The contents of this repository are for informational purposes and the result of personal research. The author is not affiliated, associated, authorized, endorsed by, or in any way connected with Banca Sella S.p.A., or with its affiliated companies. All registered trademarks belong to their respective owners.
 
@@ -50,6 +61,16 @@ The contents of this repository are for informational purposes and the result of
 
 ## Contributing
 Thank you for considering contributing to the HypeAPI project! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute.
+
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Code of Conduct
 We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the behavior we expect from our community members.
