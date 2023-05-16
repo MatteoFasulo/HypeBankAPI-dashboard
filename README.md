@@ -62,16 +62,6 @@ The contents of this repository are for informational purposes and the result of
 ## Contributing
 Thank you for considering contributing to the HypeAPI project! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute.
 
-## Contributors
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
 ## Code of Conduct
 We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the behavior we expect from our community members.
 
