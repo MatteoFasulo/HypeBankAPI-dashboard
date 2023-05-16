@@ -14,6 +14,10 @@ docker run -p 8501:8501 hype_dashboard
 Then visit [http://127.0.0.1:8501](http://127.0.0.1:8501) to view the Streamlit app!
 
 ## 🚀 Standalone
+Run:
+```python
+git clone https://github.com/MatteoFasulo/HypeBankAPI-dashboard
+```
 The `main.py` script supports argparse for command line arguments:
 ```python
 python main.py -m EMAIL -b BIRTHDATE [-l LIMIT] [-v]
