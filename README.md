@@ -74,3 +74,6 @@ Thank you for considering contributing to the HypeAPI project! Please read the [
 
 ## Code of Conduct
 We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the behavior we expect from our community members.
+
+## License
+Matteo Fasulo © 2023 - Released under the Apache-2.0 License.
